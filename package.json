@@ -1,0 +1,22 @@
+{
+  "name": "proyectonotasfinales",
+  "version": "1.0.0",
+  "description": "Mini proyecto para guardar el nombre, la carrera, losramos y calcular el promedio de notas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Filipe-Ti/proyectoNotasFinales.git"
+  },
+  "author": "ProtecDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filipe-Ti/proyectoNotasFinales/issues"
+  },
+  "homepage": "https://github.com/Filipe-Ti/proyectoNotasFinales#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
